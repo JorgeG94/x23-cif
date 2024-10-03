@@ -29,6 +29,7 @@ _audit_update_record
 _database_code_ICSD              84461
 _chemical_name_systematic        Ammonia
 _chemical_formula_sum            'H3 N1'
+_chemical_formula_moiety         'H3 N1'
 _cell_length_a                   5.1305
 _cell_length_b                   5.1305
 _cell_length_c                   5.1305
@@ -62,8 +63,8 @@ _atom_site_type_symbol
 _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
-N1 N3- 0.2103 0.2103 0.2103
-H1 H1+ 0.3722 0.2627 0.1113
+N N 0.2103 0.2103 0.2103
+H H 0.3722 0.2627 0.1113
 
 #End of data_84461-ICSD
 

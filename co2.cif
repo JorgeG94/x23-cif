@@ -29,6 +29,7 @@ _audit_update_record
 _database_code_ICSD              16428
 _chemical_name_systematic        'Carbon Dioxide'
 _chemical_formula_sum            'C1 O2'
+_chemical_formula_moiety         'C1 O2'
 _cell_length_a                   5.624
 _cell_length_b                   5.624
 _cell_length_c                   5.624
@@ -74,8 +75,8 @@ _atom_site_type_symbol
 _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
-C1 C4+ 0 0 0
-O1 O2- 0.1185 0.1185 0.1185
+C C 0 0 0
+O O 0.1185 0.1185 0.1185
 
 #End of data_16428-ICSD
 
